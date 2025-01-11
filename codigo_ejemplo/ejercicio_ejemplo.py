@@ -4,10 +4,10 @@ def calcular_lote(arr_cajas):
 
 def main():
     # Ruta de archivo de entrada
-    input_file = "../input/input.txt"
+    input_file = "./input/input.txt"
 
     # Ruta de archivo de salida
-    output_file = "../output/output.txt"
+    output_file = "./output/output.txt"
 
     # Se valida el archivo de entrada
     try:
